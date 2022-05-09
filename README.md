@@ -4,6 +4,12 @@
 
 ---
 
+> - [채용 공고 모음](https://github.com/yunchanbin/Company-Analysis/blob/master/Search.md)
+
+
+
+
+
 ### 1) 자격요건 분석
 
 - 

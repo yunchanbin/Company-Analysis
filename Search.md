@@ -4,7 +4,7 @@
 
 ---
 
-1. [KT](https://www.digicokt-recruit.com)
+#### 1. [KT](https://www.digicokt-recruit.com)
 
 - 자격요건
 
@@ -16,7 +16,7 @@
 
   
 
-2. [야놀자](https://careers.yanolja.co/job/System-Engineering팀-클라우드-엔지니어/8340944/)
+#### 2. [야놀자](https://careers.yanolja.co/job/System-Engineering팀-클라우드-엔지니어/8340944/)
 
 - 자격요건
   - Public Cloud에 관심 있는 분
@@ -28,7 +28,7 @@
 
 
 
-3. [엔씨소프트](https://ncruiting.com)
+#### 3. [엔씨소프트](https://ncruiting.com)
 
 - 지원 자격
   - 전문학사 이상 학위를 보유하고 계시거나, 2023년 2월 내 취득해야 함.
@@ -36,7 +36,7 @@
 
 
 
-4. [웅진IT](https://woongjin-it.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=97908)
+#### 4. [웅진IT](https://woongjin-it.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=97908)
 
 - 지원 자격
   - 기 졸업자 또는 2022년 8월 졸업 예정인 분
@@ -51,7 +51,7 @@
 
 
 
-5. [카카오페이](https://kakaopay.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=97732)
+#### 5. [카카오페이](https://kakaopay.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=97732)
 
 - 자격요건
 
@@ -63,7 +63,7 @@
 
   
 
-6. [카카오엔터프라이즈](https://careers.kakaoenterprise.com/)
+#### 6. [카카오엔터프라이즈](https://careers.kakaoenterprise.com/)
 
 - 지원자격
   - 기초적인 컴퓨터 공학에 대한 이해가 있으신 분
