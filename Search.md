@@ -5,12 +5,17 @@
 ---
 
 ### 1. [KT](https://www.digicokt-recruit.com)
-#### - 자격요건
+#### - 필수요건
 
-  - 정규 4년제 대학 기졸업 또는 2022년 8월까지 졸업 가능한 자
-  - 병역 필 또는 면제자
-  - 해외여행 결격사유가 없는 자
-  - 2022년 7월 입사 가능한 자
+  - Java, Python 기반 Back-end 어플리케이션 개발 경험
+  - Restful API 설계 및 개발 경험
+  - API Gateway 및 RDBMS, NoSQL 오픈소스 활용 경험
+
+#### - 우대요건
+
+- K8S, Container 활용 경험
+- MSA 및 실시간 대용량 처리 경험
+- AI 개발 경험
 
   
 

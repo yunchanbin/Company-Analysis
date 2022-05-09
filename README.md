@@ -5,6 +5,7 @@
 ---
 
 > - [채용 공고 모음](https://github.com/yunchanbin/Company-Analysis/blob/master/Search.md)
+> - [자소서 문항](https://github.com/yunchanbin/Company-Analysis/blob/master/Self_Introdution_Qlist.md)
 
 
 
